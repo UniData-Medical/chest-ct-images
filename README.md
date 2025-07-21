@@ -14,10 +14,8 @@ Dataset comprises **50,000+** studies with protocol and **100,000+** studies wit
 ### 📊 Sample dataset available! For full access, [contact us](https://unidata.pro/datasets/ct-scan-chest/?utm_source=github-med&utm_medium=referral&utm_campaign=chest-ct-images) to discuss purchase terms.
 
 ## Dataset structure
-- 1  —  images of first person
-- 2  —  images of second person
-- 3  — images of third person
-- annotation.json  —file contains metadata and labels for all individuals in the dataset.
+- files  —  studies
+- labels  —file contains metadata and labels.
 
 ### 🧩 Like the dataset but need different data? We can collect a custom dataset just for you - learn more about our data collection services [here](https://unidata.pro/datasets/ct-scan-chest/?utm_source=github-med&utm_medium=referral&utm_campaign=chest-ct-images)
 
